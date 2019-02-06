@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+.oldman {
+    width: 300px;
+    height: 300px;
+}
+.sword {
+    display: none;
+}
+.start {
+    display:none;
+}
+body {
+    background-color: #a8ff05;
+}
+.enemy {
+    display:none;
+}
+.guide {
+    display: none;
+    color: white;
+}
+.guide2 {
+    display: none;
+    color: white;
+}
+.chest {
+    width: 300px;
+    height: 300px;
+    display: none;
+}
+.congrats {
+    display: none;
+    color: white;
+}
